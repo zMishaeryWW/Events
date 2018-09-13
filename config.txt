@@ -1,6 +1,6 @@
-token=NDgzNDk4OTY3NTY1NDY3NjQ4.Dnf4XA.5Uf5us-4Pi6O26ito4Pz3vLrEIA
+token=NDgzNTAxMzM2MDg0NjExMDgy.Dnvu_g.xQMEOvMsPgjjiqcRm9P3xghiApk
 owner=257804689268146177
-prefix=1
-game=Type 1Play | 1Help
+prefix=ev
+game=3Rb . Events
 stayinchannel=true
 songinstatus=true
